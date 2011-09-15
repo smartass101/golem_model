@@ -1,0 +1,24 @@
+jednotky ... metr
+mistnost
+    x 2.699
+    y 6.336
+    z 3.070
+
+jadro
+    x 
+        od zdi(naproti dverim) 0.433 
+        od zdi(u dveri) 0.210
+    y 
+        od zdi(s vyklenkem) 2.713 
+        od zdi(naproti vyklenku) 3.294
+    z 
+        od stropu 1.446 
+        od podlahy 0.533]
+
+port velky 
+    bliz k vyklenku na zdi
+    horizontalni prostredni, prostredni
+    od stropu 1.958
+    od zdi(s vyklenkem) ke stredu portu 2.061
+    od zdi(naproti dverim) ke stredu portu 1.452
+
