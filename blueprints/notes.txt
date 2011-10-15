@@ -1,0 +1,4 @@
+radius of wall aroun the plasma ring (use triangle[plasma center;plasma top;rightmost 90 degrees edge] at small cross - plasma radius) 
+result: radius_wall=102 mm
+
+pro prichyceni prirub jsem pouzil kruhace o 20 mm
